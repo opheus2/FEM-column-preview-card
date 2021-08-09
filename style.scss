@@ -108,6 +108,7 @@ body {
                     white-space: nowrap;
                     color: inherit;
                     cursor: pointer;
+                    transition: all 0.3s ease;
                     &:hover {
                         background: transparent;
                         color: var(--very-light-grey);

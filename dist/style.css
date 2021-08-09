@@ -120,6 +120,7 @@ body {
   white-space: nowrap;
   color: inherit;
   cursor: pointer;
+  transition: all 0.3s ease;
 }
 .container .three-columns > .col .col__action .button:hover {
   background: transparent;
